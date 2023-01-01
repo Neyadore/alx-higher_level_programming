@@ -1,3 +1,5 @@
-README for 0x00-python-hello_world
+2-print.py pirnts a quote exactly
+2-print.py pirnts a quote exactly
+README.md for this folder 
 
-0-run - shell script that runs a pytho script
+2-print.py prints a specific line 
