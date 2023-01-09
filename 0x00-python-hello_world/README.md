@@ -8,3 +8,5 @@ README for 0x00-python-hello_world
 5-print_string.py print 3 times a string stored in the variable str, followed by its first 9 characters
 6-concat.py-print Welcome to Holberton School!
 7- 
+
+task 8 prints object-oriented programming with Python exactly
